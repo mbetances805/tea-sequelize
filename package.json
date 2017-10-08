@@ -4,7 +4,8 @@
   "description": "",
   "main": "db.js",
   "scripts": {
-    "test": "mocha spec/*.js"
+    "test": "mocha spec/*.js",
+    "start": "nodemon"
   },
   "author": "",
   "license": "ISC",
